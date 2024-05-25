@@ -1,0 +1,13 @@
+* {
+    box-sizing: border-box;
+}
+
+@font-face {
+    font-family: "FigtreeExtraBold";
+    src: url('./resources/fonts/Figtree-ExtraBold.ttf');
+}
+
+@font-face {
+    font-family: "FigtreeSemiBold";
+    src: url('./resources/fonts/Figtree-SemiBold.ttf');
+}
